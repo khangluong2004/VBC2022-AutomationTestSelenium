@@ -46,7 +46,10 @@ Before step 1, clone the Source code for Front-end & Back-end Servers (folder si
 ```sh
 git clone https://github.com/khangluong2004/Blockchain-Bridge-VBC.git 
 ```
+Then install everything with npm install, and start each servers with npm start/ npm run dev
 
+### For Selenium IDE (Deprecated)
+Import the .side file into IDE, but deprecated (built for older version).
 
 <!-- CONTRIBUTING -->
 ## Contributing
