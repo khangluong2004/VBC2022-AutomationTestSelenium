@@ -1,0 +1,8 @@
+ERC20:
+Sender + Receiver: 0x8FBF5A7505d323D0b957c0aF3FaB8Ceea9226758 
+Lock Native (AGD): 0.0001 MBC
+Unlock VMBC (AGD): 0.0001 VMBC
+Lock VMBC (AGD): 0.0001 VMBC
+Unlock Native (MBC): 0.0001 MBC
+
+C:\Python310\Scripts\;C:\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\khang\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.9;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Python310\Scripts\;C:\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\khang\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.9;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Python310\Scripts\;C:\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\khang\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.9;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Python310\Scripts\;C:\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\khang\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.9;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Users\khang\AppData\Roaming\Microsoft\Windows\
