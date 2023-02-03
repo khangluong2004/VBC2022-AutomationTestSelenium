@@ -73,7 +73,6 @@ Don't forget to give the project a star! Thanks again!
 
 Luong An Khang - khangluong2004@gmail.com
 
-VBC Blockchain Bridge Full Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
